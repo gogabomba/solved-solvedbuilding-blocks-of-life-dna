@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedbuilding-blocks-of-life-dna
+<br>
+PART ONE: ALL HANDS ON DEQUE A double-ended queue or deque (pronounced “deck”) is like a queue, except that it supports adding and removing items from either the front or the back of the data structure. Rather than the terms enqueue and dequeue, the terms used in the literature are addFront, addRear, removeFront, and removeRear. Create a generic data structure Deque that implements the following API: public class Deque
